@@ -3,7 +3,7 @@ package com.example.api_pdm.article.presentation.state
 import com.example.api_pdm.article.domain.models.Article
 
 // Classe que representa o estado de uma tela ou componente relacionado ao artigo
-data class ArticleState(
+data class EstadoArtigo(
     // O artigo carregado (pode ser nulo caso ainda não tenha sido carregado)
     val article: Article? = null,
 

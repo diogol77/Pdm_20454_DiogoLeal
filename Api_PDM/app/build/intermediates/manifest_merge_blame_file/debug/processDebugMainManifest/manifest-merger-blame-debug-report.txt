@@ -9,8 +9,8 @@
 9        android:targetSdkVersion="34" />
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\diogo\OneDrive\Desktop\PDM_20454_2024\Api_PDM\app\src\main\AndroidManifest.xml:4:5-66
-11-->C:\Users\diogo\OneDrive\Desktop\PDM_20454_2024\Api_PDM\app\src\main\AndroidManifest.xml:4:22-64
+11-->C:\Users\diogo\OneDrive\Desktop\PDM_2024\pdm24_20454_diogoleal\Api_PDM\app\src\main\AndroidManifest.xml:4:5-66
+11-->C:\Users\diogo\OneDrive\Desktop\PDM_2024\pdm24_20454_diogoleal\Api_PDM\app\src\main\AndroidManifest.xml:4:22-64
 12
 13    <permission
 13-->[androidx.core:core:1.13.1] C:\Users\diogo\.gradle\caches\transforms-4\1b4b5497b01e5ee0ab64afc43c7de280\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
@@ -24,49 +24,49 @@
 17-->[androidx.core:core:1.13.1] C:\Users\diogo\.gradle\caches\transforms-4\1b4b5497b01e5ee0ab64afc43c7de280\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
 18
 19    <application
-19-->C:\Users\diogo\OneDrive\Desktop\PDM_20454_2024\Api_PDM\app\src\main\AndroidManifest.xml:5:5-30:19
+19-->C:\Users\diogo\OneDrive\Desktop\PDM_2024\pdm24_20454_diogoleal\Api_PDM\app\src\main\AndroidManifest.xml:5:5-30:19
 20        android:name="com.example.api_pdm.App"
-20-->C:\Users\diogo\OneDrive\Desktop\PDM_20454_2024\Api_PDM\app\src\main\AndroidManifest.xml:6:9-47
+20-->C:\Users\diogo\OneDrive\Desktop\PDM_2024\pdm24_20454_diogoleal\Api_PDM\app\src\main\AndroidManifest.xml:6:9-47
 21        android:allowBackup="true"
-21-->C:\Users\diogo\OneDrive\Desktop\PDM_20454_2024\Api_PDM\app\src\main\AndroidManifest.xml:7:9-35
+21-->C:\Users\diogo\OneDrive\Desktop\PDM_2024\pdm24_20454_diogoleal\Api_PDM\app\src\main\AndroidManifest.xml:7:9-35
 22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 22-->[androidx.core:core:1.13.1] C:\Users\diogo\.gradle\caches\transforms-4\1b4b5497b01e5ee0ab64afc43c7de280\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
 23        android:dataExtractionRules="@xml/data_extraction_rules"
-23-->C:\Users\diogo\OneDrive\Desktop\PDM_20454_2024\Api_PDM\app\src\main\AndroidManifest.xml:8:9-65
+23-->C:\Users\diogo\OneDrive\Desktop\PDM_2024\pdm24_20454_diogoleal\Api_PDM\app\src\main\AndroidManifest.xml:8:9-65
 24        android:debuggable="true"
 25        android:extractNativeLibs="false"
 26        android:fullBackupContent="@xml/backup_rules"
-26-->C:\Users\diogo\OneDrive\Desktop\PDM_20454_2024\Api_PDM\app\src\main\AndroidManifest.xml:9:9-54
+26-->C:\Users\diogo\OneDrive\Desktop\PDM_2024\pdm24_20454_diogoleal\Api_PDM\app\src\main\AndroidManifest.xml:9:9-54
 27        android:icon="@mipmap/ic_launcher"
-27-->C:\Users\diogo\OneDrive\Desktop\PDM_20454_2024\Api_PDM\app\src\main\AndroidManifest.xml:10:9-43
+27-->C:\Users\diogo\OneDrive\Desktop\PDM_2024\pdm24_20454_diogoleal\Api_PDM\app\src\main\AndroidManifest.xml:10:9-43
 28        android:label="@string/app_name"
-28-->C:\Users\diogo\OneDrive\Desktop\PDM_20454_2024\Api_PDM\app\src\main\AndroidManifest.xml:11:9-41
+28-->C:\Users\diogo\OneDrive\Desktop\PDM_2024\pdm24_20454_diogoleal\Api_PDM\app\src\main\AndroidManifest.xml:11:9-41
 29        android:roundIcon="@mipmap/ic_launcher_round"
-29-->C:\Users\diogo\OneDrive\Desktop\PDM_20454_2024\Api_PDM\app\src\main\AndroidManifest.xml:12:9-54
+29-->C:\Users\diogo\OneDrive\Desktop\PDM_2024\pdm24_20454_diogoleal\Api_PDM\app\src\main\AndroidManifest.xml:12:9-54
 30        android:supportsRtl="true"
-30-->C:\Users\diogo\OneDrive\Desktop\PDM_20454_2024\Api_PDM\app\src\main\AndroidManifest.xml:13:9-35
+30-->C:\Users\diogo\OneDrive\Desktop\PDM_2024\pdm24_20454_diogoleal\Api_PDM\app\src\main\AndroidManifest.xml:13:9-35
 31        android:testOnly="true"
 32        android:theme="@style/Theme.Api_pdm" >
-32-->C:\Users\diogo\OneDrive\Desktop\PDM_20454_2024\Api_PDM\app\src\main\AndroidManifest.xml:14:9-45
+32-->C:\Users\diogo\OneDrive\Desktop\PDM_2024\pdm24_20454_diogoleal\Api_PDM\app\src\main\AndroidManifest.xml:14:9-45
 33        <activity
-33-->C:\Users\diogo\OneDrive\Desktop\PDM_20454_2024\Api_PDM\app\src\main\AndroidManifest.xml:19:9-28:20
+33-->C:\Users\diogo\OneDrive\Desktop\PDM_2024\pdm24_20454_diogoleal\Api_PDM\app\src\main\AndroidManifest.xml:19:9-28:20
 34            android:name="com.example.api_pdm.presentation.MainActivity"
-34-->C:\Users\diogo\OneDrive\Desktop\PDM_20454_2024\Api_PDM\app\src\main\AndroidManifest.xml:20:13-73
+34-->C:\Users\diogo\OneDrive\Desktop\PDM_2024\pdm24_20454_diogoleal\Api_PDM\app\src\main\AndroidManifest.xml:20:13-73
 35            android:exported="true"
-35-->C:\Users\diogo\OneDrive\Desktop\PDM_20454_2024\Api_PDM\app\src\main\AndroidManifest.xml:21:13-36
+35-->C:\Users\diogo\OneDrive\Desktop\PDM_2024\pdm24_20454_diogoleal\Api_PDM\app\src\main\AndroidManifest.xml:21:13-36
 36            android:label="@string/app_name"
-36-->C:\Users\diogo\OneDrive\Desktop\PDM_20454_2024\Api_PDM\app\src\main\AndroidManifest.xml:22:13-45
+36-->C:\Users\diogo\OneDrive\Desktop\PDM_2024\pdm24_20454_diogoleal\Api_PDM\app\src\main\AndroidManifest.xml:22:13-45
 37            android:theme="@style/Theme.Api_pdm" >
-37-->C:\Users\diogo\OneDrive\Desktop\PDM_20454_2024\Api_PDM\app\src\main\AndroidManifest.xml:23:13-49
+37-->C:\Users\diogo\OneDrive\Desktop\PDM_2024\pdm24_20454_diogoleal\Api_PDM\app\src\main\AndroidManifest.xml:23:13-49
 38            <intent-filter>
-38-->C:\Users\diogo\OneDrive\Desktop\PDM_20454_2024\Api_PDM\app\src\main\AndroidManifest.xml:24:13-27:29
+38-->C:\Users\diogo\OneDrive\Desktop\PDM_2024\pdm24_20454_diogoleal\Api_PDM\app\src\main\AndroidManifest.xml:24:13-27:29
 39                <action android:name="android.intent.action.MAIN" />
-39-->C:\Users\diogo\OneDrive\Desktop\PDM_20454_2024\Api_PDM\app\src\main\AndroidManifest.xml:25:17-69
-39-->C:\Users\diogo\OneDrive\Desktop\PDM_20454_2024\Api_PDM\app\src\main\AndroidManifest.xml:25:25-66
+39-->C:\Users\diogo\OneDrive\Desktop\PDM_2024\pdm24_20454_diogoleal\Api_PDM\app\src\main\AndroidManifest.xml:25:17-69
+39-->C:\Users\diogo\OneDrive\Desktop\PDM_2024\pdm24_20454_diogoleal\Api_PDM\app\src\main\AndroidManifest.xml:25:25-66
 40
 41                <category android:name="android.intent.category.LAUNCHER" />
-41-->C:\Users\diogo\OneDrive\Desktop\PDM_20454_2024\Api_PDM\app\src\main\AndroidManifest.xml:26:17-77
-41-->C:\Users\diogo\OneDrive\Desktop\PDM_20454_2024\Api_PDM\app\src\main\AndroidManifest.xml:26:27-74
+41-->C:\Users\diogo\OneDrive\Desktop\PDM_2024\pdm24_20454_diogoleal\Api_PDM\app\src\main\AndroidManifest.xml:26:17-77
+41-->C:\Users\diogo\OneDrive\Desktop\PDM_2024\pdm24_20454_diogoleal\Api_PDM\app\src\main\AndroidManifest.xml:26:27-74
 42            </intent-filter>
 43        </activity>
 44

@@ -6,7 +6,7 @@ import androidx.compose.runtime.setValue
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.api_pdm.article.domain.repository.NewsRepository
-import com.example.api_pdm.article.presentation.state.ArticleState
+import com.example.api_pdm.article.presentation.state.EstadoArtigo
 import com.example.api_pdm.article.presentation.design.ArticleAction
 import com.example.api_pdm.news.domain.models.NewsResult
 import kotlinx.coroutines.launch
@@ -17,7 +17,7 @@ class ArticleViewModel(
 ) : ViewModel() {
 
     // Estado do artigo, observável pelas telas (Composables)
-    var state by mutableStateOf(ArticleState()) // Inicializa com valores padrão
+    var state by mutableStateOf(EstadoArtigo()) // Inicializa com valores padrão
         private set
 
     // Função que lida com as ações relacionadas ao artigo
